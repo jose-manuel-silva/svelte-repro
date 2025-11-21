@@ -14,7 +14,7 @@ const config = {
 		adapter: adapter(),
 
 		experimental: {
-			// remoteFunctions: true
+			remoteFunctions: true
 		}
 	},
 	compilerOptions: {
